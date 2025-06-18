@@ -1,9 +1,9 @@
 export const metadata = {
-    title: 'Home',
-}
+  title: "Home",
+};
 
 const Homepage = () => {
-    return <>ArkIstanbul</> ;
-}
- 
+  return <>ArkIstanbul</>;
+};
+
 export default Homepage;
